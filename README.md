@@ -1,37 +1,54 @@
-# Hi there 👋, I'm ri06nuha!
+# Hi, I'm Fariza!
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-## 🚀 About Me
-- 🔭 Currently working on awesome projects!
-- 🌱 Learning new tech every day.
-- 👯 Open to collaboration on interesting ideas.
-- 💬 Ask me anything about code, tech, or life.
-
-![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-
-## 🛠️ Skills
-- **Languages:** Python, JavaScript, [add yours!]
-- **Frameworks:** React, Node.js, [add yours!]
-- **Tools:** Git, Docker, VSCode, [add yours!]
-
-## 🎯 Fun Facts
-- 😄 I love memes & open source!
-- 🏃‍♂️ I enjoy running and gaming.
-
-![Fun GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-## 📈 GitHub Stats
-
-![ri06nuha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ri06nuha&show_icons=true&theme=radical)
-
-## 📫 Connect with me!
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin]
-- Twitter: [your-twitter]
-
-![Thank You GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+Robotics & AI undergraduate passionate about building real-world, intelligent systems. I work at the intersection of embedded hardware, software, and AI. I value clarity in communication, collaboration across disciplines, and learning through building.
 
 ---
 
-_Thanks for visiting! Have a great day!_
+## 🔧 Current Projects
+- Autonomous firefighting drone (IoT + CV)
+- Neural network models for AQI prediction
+- Game development using Unity
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-darkgreen?style=flat)
+
+### Tools & Platforms
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks)
+![Simulink](https://img.shields.io/badge/-Simulink-lightgrey?style=flat&logo=mathworks)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6D00?logo=autodesk&logoColor=white&style=flat)
+
+---
+
+## 🌱 Learning  
+- ROS basics and Simulation
+- AI for robotics and healthcare  
+- PCB design and 3D printing
+
+---
+
+## 🧠 Soft Skills
+- 🤝 Clear and confident communicator  
+- 🎤 Experienced in hosting, team presentations, and public events  
+- 💡 Strong problem-solving & prototyping mindset  
+- 👥 Collaborator and contributor across interdisciplinary teams  
+
+---
+
+## 📫 Let's Connect 
+[LinkedIn](https://www.linkedin.com/in/fariza-nuha-farooq)
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! I'm always open to new ideas, challenges, and collaborations.</i></p>
+
