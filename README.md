@@ -32,15 +32,14 @@ Robotics & AI undergraduate passionate about building real-world, intelligent sy
 ## 🌱 Learning  
 - ROS basics and Simulation
 - AI for robotics and healthcare  
-- PCB design and 3D printing
 
 ---
 
 ## 🧠 Soft Skills
-- 🤝 Clear and confident communicator  
-- 🎤 Experienced in hosting, team presentations, and public events  
-- 💡 Strong problem-solving & prototyping mindset  
-- 👥 Collaborator and contributor across interdisciplinary teams  
+- Clear and confident communicator  
+- Experienced in hosting, team presentations, and public events  
+- Strong problem-solving & prototyping mindset  
+- Collaborator and contributor across interdisciplinary teams  
 
 ---
 
