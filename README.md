@@ -20,12 +20,16 @@ Robotics & AI undergraduate passionate about building real-world, intelligent sy
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-darkgreen?style=flat)
 
+
 ### Tools & Platforms
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?logo=ros&logoColor=white&style=flat)
+![Gazebo](https://img.shields.io/badge/-Gazebo-FF6B6B?logo=gazebo&logoColor=white&style=flat)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks)
 ![Simulink](https://img.shields.io/badge/-Simulink-lightgrey?style=flat&logo=mathworks)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6D00?logo=autodesk&logoColor=white&style=flat)
+
 
 ---
 
